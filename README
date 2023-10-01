@@ -3,4 +3,4 @@
 
 
 run server on terminal
-    npm run dev
+    npm run devnode 
